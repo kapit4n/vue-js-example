@@ -1,0 +1,17 @@
+{
+  "name": "news-page",
+  "description": "Web page that show news",
+  "main": "index.js",
+  "authors": [
+    "Luis Arce"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kapit4n/vue-js-news",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
